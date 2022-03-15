@@ -16,6 +16,7 @@ public class test_D1 {
         System.out.println((int) ch);// int형으로 출력하는 명령문
 
         int num1 = 120;
+        int num2 = 130;
 
 
 
